@@ -1,2 +1,2 @@
 # wabot1
-Simple WhatsApp bot installed by termux
+Simple WhatsApp bot install by termux
