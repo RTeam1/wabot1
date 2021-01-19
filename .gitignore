@@ -1,0 +1,14 @@
+# modules directory
+node_modules/
+
+# session files
+session-zefian.json
+
+# image files
+*.jpg
+*.png
+*.jpeg
+trash/*.webp
+*.log
+# lock files
+*-lock.json

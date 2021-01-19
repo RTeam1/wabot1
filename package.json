@@ -1,0 +1,43 @@
+{
+  "name": "zzbot",
+  "version": "1.0.0",
+  "description": "simple bot whatsapp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZefianAlfian/zzbot.git"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "automate",
+    "baileys"
+  ],
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.3.1",
+    "axios": "^0.21.1",
+    "cfonts": "^2.9.1",
+    "child_process": "^1.0.2",
+    "colors": "^1.4.0",
+    "crypto": "^1.0.1",
+    "fetch": "^1.1.0",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.20",
+    "mathjs": "^8.1.1",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.32",
+    "node-fetch": "^2.6.1",
+    "qrcode-terminal": "^0.12.0",
+    "spinnies": "^0.5.1"
+  },
+  "author": "ZefianAlfian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZefianAlfian/zzbot/issues"
+  },
+  "homepage": "https://github.com/ZefianAlfian/zzbot#readme"
+}
