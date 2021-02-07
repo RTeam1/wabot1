@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/ZefianAlfian/zzbott/main/images.jpeg"/>
+<img src="https://github.com/RTeam1/wabot1/blob/main/images.jpeg"/>
 </p>
 <p align="center">
 <a href="#"><img title="ZZBot" src="https://img.shields.io/badge/Whatsapp%20Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
