@@ -14,7 +14,7 @@
 <a href="https://github.com/zefianalfian/zzbot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zefianalfian/zzbot?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
-# zzbot
+# RTeam1
 Simple WhatsApp Bot
 
 ### FOR TERMUX USER
@@ -33,7 +33,7 @@ Simple WhatsApp Bot
 > ./start-ubuntu.sh
 > apt update
 > apt install git
-> git clone https://github.com/ZefianAlfian/zzbot
+> git clone https://github.com/RTeam1/wabot1
 > cd zzbot
 > apt install curl
 > curl -sL https://deb.nodesource.com/setup_12.x -o nodesource_setup.sh
