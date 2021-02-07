@@ -19,6 +19,7 @@ Simple WhatsApp Bot
 
 ### FOR TERMUX USER
 ```bash
+# NOTE : JIKA MUNCUL [Y/N] KALIAN KETIK Y
 > pkg update && pkg install wget openssl-tool proot -y && hash -r && wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Ubuntu/ubuntu.sh && bash ubuntu.sh
 > ./start-ubuntu.sh
 > apt install git
@@ -29,6 +30,7 @@ Simple WhatsApp Bot
 ```
 ###### Jika Error / Tidak Bisa silahkan manual
 ```bash
+# NOTE : JIKA MUNCUL [Y/N] KALIAN KETIK Y
 > pkg update -y && pkg install curl proot tar -y && curl https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Installer/Ubuntu/ubuntu-xfce.sh | bash
 > ./start-ubuntu.sh
 > apt update
@@ -51,6 +53,7 @@ Simple WhatsApp Bot
 
 ### FOR WINDOWS/VPS/RDP USER
 ```bash
+# NOTE : JIKA MUNCUL [Y/N] KALIAN KETIK Y
 > git clone https://github.com/RTeam1/wabot1
 > cd wabot1
 > npm install
