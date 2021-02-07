@@ -25,7 +25,7 @@ Simple WhatsApp Bot
 > git clone https://github.com/RTeam1/wabot1
 > cd wabot1
 > bash install.sh
-> npm start
+> node index.ks
 ```
 ###### Jika Error / Tidak Bisa silahkan manual
 ```bash
@@ -44,7 +44,7 @@ Simple WhatsApp Bot
 > apt install webp
 > npm i -g cwebp
 > npm i
-> npm start
+> node index.js
 ```
 
 ---------
