@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/ZefianAlfian/zzbott/main/images.jpeg"/>
 </p>
 <p align="center">
-<a href="#"><img title="ZZBot" src="https://img.shields.io/badge/Zefian%20Whatsapp%20Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="ZZBot" src="https://img.shields.io/badge/Whatsapp%20Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/ZefianAlfian"><img title="Author" src="https://img.shields.io/badge/Author-ZefianAlfian-red.svg?style=for-the-badge&logo=github"></a>
@@ -14,7 +14,7 @@
 <a href="https://github.com/zefianalfian/zzbott/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zefianalfian/zzbott?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
-# zzbot
+# Projek 1
 Simple WhatsApp Bot
 
 ### FOR TERMUX USER
@@ -22,8 +22,8 @@ Simple WhatsApp Bot
 > pkg update && pkg install wget openssl-tool proot -y && hash -r && wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Ubuntu/ubuntu.sh && bash ubuntu.sh
 > ./start-ubuntu.sh
 > apt install git
-> git clone https://github.com/ZefianAlfian/zzbot
-> cd zzbot
+> git clone https://github.com/RTeam1/wabot1
+> cd wabot1
 > bash install.sh
 > npm start
 ```
@@ -33,8 +33,8 @@ Simple WhatsApp Bot
 > ./start-ubuntu.sh
 > apt update
 > apt install git
-> git clone https://github.com/ZefianAlfian/zzbot
-> cd zzbot
+> git clone https://github.com/RTeam1/wabot1
+> cd wabot1
 > apt install curl
 > curl -sL https://deb.nodesource.com/setup_12.x -o nodesource_setup.sh
 > bash nodesource_setup.sh
