@@ -9,7 +9,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/RTeam1/followers"><img title="Followers" src="https://img.shields.io/github/followers/zefianalfian?color=blue&style=flat-square"></a>
-<a href="https://github.com/ZefianAlfian/zzbott/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zefianalfian/zzbott?color=red&style=flat-square"></a>
+<a href="https://github.com/RTeam1/wabot1stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zefianalfian/zzbott?color=red&style=flat-square"></a>
 <a href="https://github.com/zefianalfian/zzbott/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zefianalfian/zzbott?color=red&style=flat-square"></a>
 <a href="https://github.com/zefianalfian/zzbott/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zefianalfian/zzbott?label=Watchers&color=blue&style=flat-square"></a>
 </p>
