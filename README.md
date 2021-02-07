@@ -51,8 +51,8 @@ Simple WhatsApp Bot
 
 ### FOR WINDOWS/VPS/RDP USER
 ```bash
-> git clone https://github.com/ZefianAlfian/zzbot
-> cd zzbot
+> git clone https://github.com/RTeam1
+> cd wabot1
 > npm install
 ```
 ###### Run
