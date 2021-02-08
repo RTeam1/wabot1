@@ -149,7 +149,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ╠⊱➥ *Total pengguna* : ${_registered.length}*
 ╠⊱ 
 ╠⊱➥
-╠➥ 
+╠➥ https://github.com/RTeam1/
 ╠⊱ 
 ╠⊱ A S
 ║ 
