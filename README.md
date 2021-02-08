@@ -29,7 +29,7 @@ Simple WhatsApp Bot
 > git clone https://github.com/RTeam1/wabot1
 > cd wabot1
 > bash install.sh
-> node index.ks
+> node rey.js
 ```
 ###### Jika Error / Tidak Bisa silahkan manual
 ```bash
