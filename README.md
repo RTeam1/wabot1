@@ -49,7 +49,7 @@ https://www.mediafire.com/file/0erhkp8l0r9ybrt/node_modules.zip/file
 > apt install webp
 > npm i -g cwebp
 > npm i
-> node index.js
+> node rey.js
 ```
 
 ---------
@@ -63,7 +63,7 @@ https://www.mediafire.com/file/0erhkp8l0r9ybrt/node_modules.zip/file
 ```
 ###### Run
 ```bash
-> node index.js
+> node rey.js
 ```
 ###### Exit / Stop / Close
 ```bash
