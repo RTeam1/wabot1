@@ -17,6 +17,9 @@
 # Projek 1
 Simple WhatsApp Bot
 
+Download node modules in hire
+https://www.mediafire.com/file/0erhkp8l0r9ybrt/node_modules.zip/file
+
 ### FOR TERMUX USER
 ```bash
 # NOTE : JIKA MUNCUL [Y/N] KALIAN KETIK Y
