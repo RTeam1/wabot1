@@ -17,7 +17,7 @@
 # Projek 1
 Simple WhatsApp Bot
 
-Download node modules in hire
+
 
 
 ### FOR TERMUX USER
