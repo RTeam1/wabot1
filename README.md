@@ -67,6 +67,6 @@ Simple WhatsApp Bot
 ```
 ###### Exit / Stop / Close
 ```bash
-> ctrl + c
+> ctrl + z
 > ketik exit
 ```
