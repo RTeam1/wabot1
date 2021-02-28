@@ -75,6 +75,6 @@ Simple WhatsApp Bot
 ###### Big spesial thanks to :
 <p align="center">
 
-<a href="https://github.com/mhankbarbars"><img title="Mhankbarbars" src="https://img.shields.io/badge/Author-RTeam1-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/mhankbarbar"><img title="Mhankbarbars" src="https://img.shields.io/badge/Github-MhankBarBar-red.svg?style=for-the-badge&logo=github"></a>
 
 </p> 
