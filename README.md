@@ -80,12 +80,12 @@ Simple WhatsApp Bot
 </p> 
 <p align="center">
 
-<a href="https://github.com/adiwajshing"><img title="Adiwajshing" src="https://img.shields.io/badge/Github-MhankBarBar-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/adiwajshing"><img title="Adiwajshing" src="https://img.shields.io/badge/Github-Adiwajshing-red.svg?style=for-the-badge&logo=github"></a>
 
 </p> 
 
 <p align="center">
 
-<a href="https://github.com/github"><img title="ALL CREATOR BOT" src="https://img.shields.io/badge/Github-MhankBarBar-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/github"><img title="ALL-CREATOR-BOT" src="https://img.shields.io/badge/Github-ALL-CREATOR-BOT-red.svg?style=for-the-badge&logo=github"></a>
 
 </p> 
